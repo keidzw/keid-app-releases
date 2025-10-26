@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](#-license)
 [![Website](https://img.shields.io/badge/website-keid.co.zw-orange.svg)](https://keid.co.zw)
 
-[Website](https://keid.co.zw) • [Download](https://github.com/yourusername/keid/releases) • [Support](mailto:support@keid.co.zw)
+[Website](https://keid.co.zw) • [Download](https://keid.co.zw/download) • [Support](mailto:support@keid.co.zw)
 
 </div>
 
